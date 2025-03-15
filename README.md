@@ -2,8 +2,6 @@
 
 Um clássico jogo Pong implementado em Python utilizando a biblioteca Pygame. Ideal para aprender conceitos básicos de desenvolvimento de jogos 2D, colisões e manipulação de eventos.
 
-![Pong Game Screenshot](screenshots/game.png)
-
 ## 🔥 Funcionalidades
 - Controle de paddles com teclado (W/S e ↑/↓)
 - Colisão realista entre bola e paddles
