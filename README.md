@@ -1,11 +1,6 @@
-# 🏓 Pong Game in Python (Pygame)
+# 🏓 Games em Python com Pygame
 
-Um clássico jogo Pong implementado em Python utilizando a biblioteca Pygame. Ideal para aprender conceitos básicos de desenvolvimento de jogos 2D, colisões e manipulação de eventos.
-
-## 🔥 Funcionalidades
-- Controle de paddles com teclado (W/S e ↑/↓)
-- Colisão realista entre bola e paddles
-- Velocidade progressiva da bola
+Nesse repositório reuno meus protipos em Python, utilizado para estudos e na miha camihada no desenvolvimento de jogos,  espero que gostem
 
 ## 🛠️ Pré-requisitos
 - Python 3.8+
@@ -16,8 +11,8 @@ Um clássico jogo Pong implementado em Python utilizando a biblioteca Pygame. Id
 bash
 git clone https://github.com/j0ao-s/pong-pygame.git
 
-2. Instale as dependências
+2. Instale as dependências:
 pip install pygame
 
-3. Execute o jogo
-python pong.py
+3. Execute o jogo que quiser:
+Ex: python pong.py
